@@ -1,5 +1,9 @@
 # SMmegaind
 
+[![megaind-rpi](res/sequent.jpg)](https://www.sequentmicrosystems.com)
+
+![Eight Relays 4A/120V 8-Layer Stackable HAT](res/New_Industrial.jpg)
+
 Arduino library for controlling the [Industrial Automation Stackable Card for Raspberry Pi](https://sequentmicrosystems.com/products/industrial-automation-for-raspberry-pi) from [Sequent Microsystems](https://sequentmicrosystems.com/).
 
 ## Install
