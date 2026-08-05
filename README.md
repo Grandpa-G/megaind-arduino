@@ -373,6 +373,9 @@ Read the temperature aquired by one sensor
  return temperature in degree Celsius
  
  ### int8_t owbGetRomCode(uint8_t sensor)
+ 
+ This function has not been implemented
+
  Read the unic ROM code of one sensor
  
   sensor - sensor number [1..16]
