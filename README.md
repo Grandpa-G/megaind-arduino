@@ -2,7 +2,7 @@
 
 [![megaind-rpi](res/sequent.jpg)](https://www.sequentmicrosystems.com)
 
-![Eight Relays 4A/120V 8-Layer Stackable HAT](res/New_Industrial.jpg)
+![Eight Relays 4A/120V 8-Layer Stackable HAT](res/New_Industrial.png)
 
 Arduino library for controlling the [Industrial Automation Stackable Card for Raspberry Pi](https://sequentmicrosystems.com/products/industrial-automation-for-raspberry-pi) from [Sequent Microsystems](https://sequentmicrosystems.com/).
 
@@ -10,10 +10,13 @@ Arduino library for controlling the [Industrial Automation Stackable Card for Ra
 ### Library manager
 Go to **Tools**>>**Manage Libraries..** menu and search for *MegaInd* and click install 
 ### Manual install
-To download click <>Code > [Download ZIP](https://github.com/SequentMicrosystems/???-Library/archive/refs/heads/main.zip) button from the main [page](https://github.com/SequentMicrosystems/???-Library), rename the uncompressed folder to "MegaInd" 
-and copy to the libraries subdirectory of your sketchbook directory ("This PC > Documents > Arduino > libraries" for a Windows PC
- or "Home > arduino > libraries" on Linux PC). Now launch the Arduino environment. If you open the Sketch > Include Library menu, you should see MegaInd inside. 
- The library will be compiled with sketches that use it. Open an arduino sketch, go to File > Examples > MegaInd > and chose your example to run.
+This method lets the Arduino IDE unpack and position the library files for you automatically. 
+1. Download the library as a ZIP file (e.g., from GitHub). 
+2. Do not unzip it.Open the Arduino IDE.In the top menu, navigate to Sketch > Include Library > Add .ZIP Library.
+3. Browse to your computer's Downloads folder, select the .zip file, and click Open.
+4. The IDE will install the library. You can now inclusion-check it under Sketch > Include Library. 
+
+Open an arduino sketch, go to File > Examples > MegaInd > and chose your example to run.
 
 ## Usage
 
