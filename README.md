@@ -52,7 +52,7 @@ Sequent Microsystems [Arduino Uno, Nano, Teensy, Feather or ESP32 Raspberry Pi R
 
 ## Examples
 
-More usage examples are available in the [/tests](https://github.com/SequentMicrosystems/megaind-rpi/tree/master/arduino/tests) folder.
+More usage examples are available in the [/examples](https://github.com/SequentMicrosystems/megaind-rpi/tree/master/arduino/examples) folder.
 
 All tests assume that one card with no address jumpers (level = 0) is present.
 
