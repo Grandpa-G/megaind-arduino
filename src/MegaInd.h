@@ -285,7 +285,7 @@ public:
 	int8_t wdtSetDefaultPeriod(uint16_t value);
 	int8_t wdtGetDefaultPeriod();
 	int8_t wdtSetOffInterval(uint32_t value);
-	long MegaInd::wdtGetOffInterval();
+	long wdtGetOffInterval();
 	int16_t wdtGetResetCount();
 
 private:
